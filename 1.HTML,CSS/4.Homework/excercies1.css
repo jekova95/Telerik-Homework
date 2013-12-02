@@ -1,0 +1,48 @@
+﻿body #table {
+    background: #585454;
+    line-height: 200%;
+}
+
+.data            {
+                font-family:Corbel; 
+                font-style: italic; 
+                color:#fff;
+                 }
+#ticket    {
+    font-family:Arial;
+    color:#C0C0C0;
+    font-size:medium;
+           }
+.info {
+    font-family: Verdana;
+    color: #C0C0C0;
+    font-size:small;
+}
+#active {
+    color: red;
+    font-family: Verdana;
+    font-size:small;
+    font-weight:bold;
+    line-height:90%;
+}
+#answered {
+    font-family: Verdana;
+    color: #FF9900 ;
+    font-size:small;
+    font-weight:bold;
+    
+}
+#link {
+    icon:url auto(online.png);
+    font-family: Verdana;
+    color: #fbf3c5;
+    font-size: small;
+
+ }
+#image {
+    height: 15px;
+    width: 17px;
+}
+
+
+     

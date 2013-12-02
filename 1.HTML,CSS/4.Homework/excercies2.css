@@ -1,0 +1,54 @@
+﻿body
+  #image {
+            height: 15px;
+            width: 29px;
+        }
+        #Img1 {
+            height: 15px;
+            width: 29px;
+        }
+        #Img2 {
+            width: 29px;
+            height: 15px;
+        }
+        #Img3 {
+            height: 15px;
+            width: 29px;
+        }
+.data {
+    background-color:#0ac113;
+    font-family:Corbel;
+    font-size:medium;
+    color:#fff;
+     border-color: #808080;
+    border-width: thin;
+    border-style: solid;
+       }
+.mexico1, .london {
+    background-color: #e0dada;
+    font-family: Corbel;
+    font-size: medium;
+}
+.mexico2, .germany {
+    font-family: Corbel;
+    font-size: medium;
+}
+{
+border-collapse:collapse;
+}
+ .auto-style1 {
+            width: 157px;
+        }
+        .auto-style3 {
+            width: 127px;
+        }
+        .auto-style4 {
+            width: 128px;
+        }
+
+.table {
+    style ="height: 186px; width: 527px";
+}
+.table {
+     border: 1px solid #ccc;
+}

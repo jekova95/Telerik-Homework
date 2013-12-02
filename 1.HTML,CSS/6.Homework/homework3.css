@@ -1,0 +1,86 @@
+﻿.management {
+            background: #3B3B3B;
+            color: #A9A9A9;
+            font: 14px/1.2 Verdana, sans-serif;
+            width:680px;
+            border: 1px solid #ff6a00;
+            border-radius:10px;
+        }
+ 
+         .question {
+            color: #F8D612;
+            font-family:'Bell MT', sans-serif;
+            font-size: 32px;
+        }
+ 
+        label {
+            margin-left:20px;
+            font-family:'Bell MT', sans-serif;
+            font-size: 24px;
+            font-weight:bold;
+        }
+ 
+        .template-world {
+            color:#dddcdc;
+        }
+ 
+        input {
+            margin-left: 15px;
+        }
+ 
+        .about {
+            width:640px;
+            padding: 10px;
+        }
+ 
+        .notrow {
+            margin:0;
+            padding:2px;
+        }
+ 
+        header {
+            width:680px;
+            height:70px;
+            overflow:hidden;
+            box-shadow: inset 0 -8px 10px #292929;
+            background: #3B3B3B;
+            color: #fff;
+            border-top-left-radius:10px;
+            border-top-right-radius:10px;
+        }
+ 
+        img {
+           position:relative;
+           top:15px;
+           left:10px;
+        }
+ 
+       #button{
+	width: 56px;
+	height: 27px;
+	border: 1px solid #fff;
+	border-radius: 10px;
+	margin-left: 20px;
+	padding: 0;
+	background: transparent url("http://picbg.net/u/62753/54649/690043.png") no-repeat center top;
+	text-indent: 20px;
+	cursor: pointer; /* hand-shaped cursor */
+	cursor: hand; /* for IE 5.x */
+}
+
+#button:hover{
+	box-shadow: 0 0 15px 1px #ff0101;
+	-webkit-box-shadow: 0 0 20px 1px #ff0101;
+	-moz-box-shadow: 0 0 12px 1px #ff0101;
+}
+
+#button:active{
+	background: url("http://picbg.net/u/62753/54649/690044.png") no-repeat;
+	box-shadow: none;
+}
+ 
+        input#name, input#email {
+            line-height:10px;
+            text-indent:20px;
+        }
+ 

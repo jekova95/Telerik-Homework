@@ -1,0 +1,39 @@
+﻿body 
+{
+	background: #909090;
+}
+
+.current
+{
+	background-color: #C4C4C4;
+}
+li,a
+{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	font-size: 25px;
+	font-family: Tahoma;
+
+}
+li:last-child
+{
+
+	text-decoration: underline;
+}
+h1
+{
+	color: #FFFFBA;
+}
+.center
+{
+	text-align: center;
+}
+.title
+{
+	font-size: 25px;
+}
+header+p
+{
+	font-weight:bold;
+}
